@@ -1,0 +1,9 @@
+https://dininguiowa.api.nutrislice.com/menu/carbcounts/burge-market/breakfast/
+https://dininguiowa.api.nutrislice.com/menu/carbcounts/burge-market/lunch/
+https://dininguiowa.api.nutrislice.com/menu/carbcounts/burge-market/dinner-3/
+https://dininguiowa.api.nutrislice.com/menu/carbcounts/catlett-market-place/breakfast-2/
+https://dininguiowa.api.nutrislice.com/menu/carbcounts/catlett-market-place/lunch-2/
+https://dininguiowa.api.nutrislice.com/menu/carbcounts/catlett-market-place/dinner-2/
+https://dininguiowa.api.nutrislice.com/menu/carbcounts/hillcrest-market-place/breakfast-3/
+https://dininguiowa.api.nutrislice.com/menu/carbcounts/hillcrest-market-place/lunch-3/
+https://dininguiowa.api.nutrislice.com/menu/carbcounts/hillcrest-market-place/dinner/
