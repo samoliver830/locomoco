@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 
-WEEKS = 4  # How many weeks ahead the forecast is
+WEEKS = 3  # How many weeks ahead the forecast is
 
 
 def extend_urls():  # Read the urls and extend them X weeks ahead
