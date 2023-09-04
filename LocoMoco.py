@@ -1,7 +1,7 @@
-import test
+import functions
 
 food = input("What are you looking forward to eating?: ")
-test.forecast(food)
+functions.forecast(food)
 
 # import tkinter as tk
 # from tkinter import scrolledtext
